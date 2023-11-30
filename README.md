@@ -10,6 +10,8 @@ This repository is dedicated to developing and showcasing an end-to-end data eng
 
 **Data Transformation**: Use dbt models to transform the ingested data, making it suitable for analysis and business intelligence purposes.
 
+For the purposes of this project, the dbt Cloud IDE was used for all dbt work done.
+
 **Documentation and Best Practices**: Comprehensive documentation detailing the pipeline's construction, the rationale behind design choices, challenges faced, and the implementation of data engineering best practices.
 
 **Skill Showcase**: The project aims to demonstrate practical skills in data engineering, covering various aspects from data extraction to insights generation.
