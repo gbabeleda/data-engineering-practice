@@ -1,4 +1,4 @@
-# airflow-bq-dbt
+# airbyte-bq-dbt
 
 This repository is dedicated to developing and showcasing an end-to-end data engineering project, with a focus on workflow orchestration and data ingestion using Apache Airflow, data transformation via dbt (Data Build Tool), and storage and analysis in Google BigQuery.
 
