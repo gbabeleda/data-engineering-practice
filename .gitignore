@@ -1,4 +1,5 @@
 **/.DS_Store
-/de-practice
-/secrets
-/airflow
+de-practice/
+secrets/
+airflow/
+.vscode/
